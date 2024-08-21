@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">TaipeiZooIntroduction</string>
+    <string name="open_web_link">在網頁開啟</string>
+    <string name="toolbar_home">臺北市立動物園</string>
+    <string name="animal_title">動物資料</string>
+    <string name="argument_not_found">資料錯誤，請重新嘗試</string>
+    <string name="detail_page_url_error">URL錯誤</string>
+    <string name="detail_page_main_pic">main_pic</string>
+    <string name="content_main_animal_pic">main_animal_pic</string>
+
 </resources>
